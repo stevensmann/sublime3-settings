@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Colorsublime-Themes/itg.Monokai.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"numix_folder_icons": true,
+	"overlay_scroll_bars": "enabled",
+	"tabs_large": true,
+	"theme": "Numix Dark.sublime-theme",
+	"word_wrap": true,
+	"trim_trailing_white_space_on_save": true
+}
